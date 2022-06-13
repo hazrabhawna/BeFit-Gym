@@ -1,0 +1,17 @@
+C:\Users\Bhawna\source\repos\GymProject\bin\Debug\GymProject.exe.config
+C:\Users\Bhawna\source\repos\GymProject\bin\Debug\GymProject.exe
+C:\Users\Bhawna\source\repos\GymProject\bin\Debug\GymProject.pdb
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.csproj.AssemblyReference.cache
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.Form1.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.Properties.Resources.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.csproj.GenerateResource.cache
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.csproj.CoreCompileInputs.cache
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.exe
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.pdb
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.NewMember.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.NewStaff.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.Equipment.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.ViewEquipment.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.SearchMember.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.DeleteMember.resources
+C:\Users\Bhawna\source\repos\GymProject\obj\Debug\GymProject.Login.resources
